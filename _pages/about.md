@@ -6,7 +6,7 @@ subtitle: Mechatronics & Robotics Engineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: gavinferdinandchee.github.io/assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: #>
     #<p>555 your office number</p>
