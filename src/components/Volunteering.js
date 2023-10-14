@@ -29,7 +29,7 @@ const Details = ({ position, company, time, address, work }) => {
     </li>
 }
 
-export default function Achievements() {
+export default function Volunteering() {
     const ref = useRef(null)
     const { scrollYProgress } = useScroll(
         {
