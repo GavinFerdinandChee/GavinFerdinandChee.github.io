@@ -61,8 +61,10 @@ export default function Home() {
             </div>
           </div>
         </Layout>
-        <HireMe modal={modal} />
+   
       </main>
     </>
   )
 }
+
+// @ line 64      <HireMe modal={modal} />
