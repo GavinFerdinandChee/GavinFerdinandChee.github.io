@@ -53,7 +53,7 @@ export default function Projects() {
   return (
     <>
         <Head>
-            <title>Brian Khoo | About Page</title>
+            <title>Gavin Ferdinand | Projects Showcase</title>
             <meta name="description" content="any description you want" />
         </Head>
 

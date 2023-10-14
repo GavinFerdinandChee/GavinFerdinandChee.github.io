@@ -86,7 +86,6 @@ const NavBar = () => {
 
                 </nav>
             </div>
-
             {
                 isOpen ?
                     <div className="min-w-[70vw] z-30 flex flex-col justify-between items-center fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2
@@ -97,8 +96,6 @@ const NavBar = () => {
                             <CustomMobileLink href="/projects" title="Projects" className="" toggle={handleClick} />
                             {/* <CustomLink href="/articles" title="Articles" className="ml-4"   /> */}
                         </nav>
-
-
                         <nav className="flex items-center justify-center flex-wrap">
                             <motion.a href="https://github.com/GavinFerdinandChee" target={"_blank"}
                                 whileHover={{ y: -2 }}
@@ -119,13 +116,9 @@ const NavBar = () => {
                     </div>
                     : null
             }
-
-
-
             <div className="absolute left-[50%] top-2 translates-x-[-50%]">
                 <Logo />
             </div>
-
         </header>
     )
 }
