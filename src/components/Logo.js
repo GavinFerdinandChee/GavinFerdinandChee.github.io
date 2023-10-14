@@ -19,7 +19,6 @@ const Logo = () => {
             }
         }}
         >
-            BK
         </MotionLink>
     </div>
   )
