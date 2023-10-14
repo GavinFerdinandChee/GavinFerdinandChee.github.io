@@ -9,6 +9,7 @@ import Skills from '@/components/Skills'
 import Experience from '@/components/Experience'
 import Achievements from '@/components/Achievements'
 import Education from '@/components/Education'
+import Volunteering from '@/components/Volunteering'
 import TransitionEffect from '@/components/TransitionEffect'
 
 const AnimatedNumbers = ({value}) => {
