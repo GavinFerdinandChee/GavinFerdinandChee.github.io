@@ -24,6 +24,5 @@ export default function TransitionEffect() {
             transition={{delay:0.4, duration:0.8, ease:"easeInOut"}}
         />
     </>
-    
   )
 }

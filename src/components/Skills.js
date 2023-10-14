@@ -3,8 +3,6 @@ import { motion } from 'framer-motion'
 
 
 const Skill = ({name, x, y}) => {
-
-
   return (
     <motion.div className="flex items-center justify-center rounded-full font-semibold bg-dark text-light 
     py-3 px-6 shadow-dark cursor-pointer absolute dark:text-dark dark:bg-light 
@@ -25,8 +23,6 @@ export default function Skills() {
      <h2 className="font-bold text-8xl mt-64 w-full text-center md:text-6xl md:mt-32">Skills</h2>
      <div className="w-full h-screen relative flex items-center justify-center rounded-full bg-circularLight dark:bg-circularDark
      lg:h-[80vh] sm:h-[60vh] xs:h-[50vh]">
-
-
           <Skill name="Programming" x="0" y="0" />
           <Skill name="Computer-Aided Design" x="-5vw" y="-10vw" />
           <Skill name="Computer-Aided Machining" x="-20vw" y="-4vw" />
@@ -41,7 +37,6 @@ export default function Skills() {
           <Skill name="MATLAB" x="0vw" y="20vw" />
           <Skill name="Bootstrap" x="10vw" y="-7vw" />
           <Skill name="LabVIEW" x="30vw" y="-4vw" />
-
      </div>
     </>
   )

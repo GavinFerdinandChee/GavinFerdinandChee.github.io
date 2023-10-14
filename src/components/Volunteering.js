@@ -70,7 +70,6 @@ export default function Volunteering() {
                         work="Drove revenue growth through process improvements and enhanced operational efficiency. Coordinated activities across departments, including production, pricing, sales, and distribution, to achieve optimal outcomes. Established a strong business foundation with technical skills and best practices for sustainable daily operations."
                     />
 
-
                     <Details
                         position="Lead Operations"
                         company="JP Morgan Chase"
@@ -79,7 +78,6 @@ export default function Volunteering() {
                         work="Led day-to-day operations, ensuring smooth efficiency. Conducted audits of cash entities, improving compliance and reducing risk. Managed staff schedules and delegated duties for productivity and customer satisfaction. Adhered to high quality standards, fostering a culture of excellence with the team."
                     />
 
-
                     <Details
                         position="Production Lead"
                         company="Charlotte Russe"
@@ -87,11 +85,8 @@ export default function Volunteering() {
                         address="San Francisco, CA"
                         work="Managed inventory schedules to meet budget and delivery requirements. Conducted quality assurance tests to ensure high-quality products. Coordinated shipments and monitored orders to prevent delays or disruptions."
                     />
-
-
                 </ul>
             </div>
-
         </div>
     )
 }
