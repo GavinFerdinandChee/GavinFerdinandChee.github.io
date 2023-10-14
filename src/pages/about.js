@@ -102,6 +102,7 @@ export default function About() {
             <Experience />
             <Achievements />
             <Education />
+            <Volunteering />
             </Layout>
         </main>
     </>
