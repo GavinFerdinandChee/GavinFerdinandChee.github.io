@@ -57,7 +57,7 @@ export default function About() {
                     
                     </p>
                     <p className="font-medium my-4"> 
-                    In addition to my technical pursuits, I am equally passionate about giving back to my community. As an active volunteer, I've dedicated my time to various charitable initiatives by spearheading various events as an executive committee member of SP Rotaract. I worked closely with various beneficiaries and various events to spread joy and welfare to the less fortunate. These experiences have not only enriched my life but also shaped my core values of empathy and the importance of contributing to the well-being of others.
+                    In addition to my technical pursuits, I am equally passionate about giving back to my community. As an active volunteer, I've dedicated my time to various charitable initiatives by spearheading various events as a former executive committee member of SP Rotaract. I worked closely with various beneficiaries and various events to spread joy and welfare to the less fortunate. These experiences have not only enriched my life but also shaped my core values of empathy and the importance of contributing to the well-being of others.
                     </p>
 
                     <p className="font-medium"> 
