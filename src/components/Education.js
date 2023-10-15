@@ -72,7 +72,7 @@ export default function Education() {
                         type="Higher Nitec Certification in Mechatronics Engineering"
                         time="2015-2017"
                         place="Institute of Technical Education"
-                        info="Graduating as a Silver Course Medallist with distinctions in 4 of 8 core modules, I achieved significant recognition, including the Lee Kuan Yew Technology Award and the esteemed Omron Book Award, earned twice during my academic journey. My dedication was further reflected in my consistent position on the Director's List for four consecutive semesters. Beyond academics, I proudly represented my institution and Singapore in an overseas exchange program to Yamagata University in Japan in 2015."
+                        info="Graduating as a Silver Course Medallist with distinctions in 4 of 8 core modules, I achieved significant recognition, including the Lee Kuan Yew Technology Award and the esteemed OMRON Book Award, earned twice during my academic journey. My dedication was further reflected in my consistent position on the Director's List for four consecutive semesters. Beyond academics, I proudly represented my institution and Singapore in an overseas exchange program to Yamagata University in Japan in 2015."
                     />
                 </ul>
             </div>
