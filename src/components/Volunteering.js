@@ -55,35 +55,19 @@ export default function Volunteering() {
                 <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
 
                     <Details
-                        position="Full-Stack Software Engineer Student"
-                        company="App Academy"
-                        time="September 2022 - March 2022"
-                        address="San Francisco, CA"
-                        work="As a software engineering student, I've developed full-stack projects using Javascript, Python, React, Redux, and SQL. I'm well-versed in agile methodologies and test-driven development, and have honed my teamwork skills through collaborative work with my peers."
+                        position="Director of Club Services (2018) || Community Service Sub-Committee Member (2017)"
+                        company="SP Rotaract"
+                        time="2017 - 2018"
+                        address="Singapore Polytechnic"
+                        work="During my involvement with the SP Rotaract Club, I played a pivotal role in fostering positive change within our community. As the Club Service Director and a Community Service Sub-Committee Member, I dedicated my time and energy to leading and participating in numerous charitable initiatives. Notably, I worked closely with various beneficiaries to organize and execute impactful community service events, such as educational trips for less fortunate children, food donation drives, and initiatives promoting active lifestyles for youths. These experiences reinforced the importance of empathy and giving back, allowing me to grow as a person and instilling the values of compassion and community welfare within me."
                     />
 
                     <Details
-                        position="Business Owner"
-                        company="eCommerce Business"
-                        time="February 2016 - November 2022"
-                        address="San Francisco, CA"
-                        work="Drove revenue growth through process improvements and enhanced operational efficiency. Coordinated activities across departments, including production, pricing, sales, and distribution, to achieve optimal outcomes. Established a strong business foundation with technical skills and best practices for sustainable daily operations."
-                    />
-
-                    <Details
-                        position="Lead Operations"
-                        company="JP Morgan Chase"
-                        time="August 2021 - June 2022"
-                        address="San Francisco, CA"
-                        work="Led day-to-day operations, ensuring smooth efficiency. Conducted audits of cash entities, improving compliance and reducing risk. Managed staff schedules and delegated duties for productivity and customer satisfaction. Adhered to high quality standards, fostering a culture of excellence with the team."
-                    />
-
-                    <Details
-                        position="Production Lead"
-                        company="Charlotte Russe"
-                        time="July 2015 - October 2017"
-                        address="San Francisco, CA"
-                        work="Managed inventory schedules to meet budget and delivery requirements. Conducted quality assurance tests to ensure high-quality products. Coordinated shipments and monitored orders to prevent delays or disruptions."
+                        position="President"
+                        company="Automation & Robotics Club"
+                        time="2015 - 2016"
+                        address="Institute of Technical Education, College West"
+                        work="During my tenure with the Automation and Robotics Club, I actively contributed to the club's goals and objectives. I took the initiative to scout events and opportunities for the club and mechatronics course to participate in, facilitating our involvement in various competitions and exhibitions, including the Singapore Robotic Games. Additionally, I played a role in recruiting potential participants for these events, ensuring our club's active engagement in promoting robotics and automation. My efforts aimed to foster innovation and enthusiasm within the club and make a positive impact on the robotics community."
                     />
                 </ul>
             </div>
