@@ -53,7 +53,7 @@ export default function About() {
                 <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
                     <h2 className="mb-4 text-lg font-bold uppercase text-dark/75">About Me</h2>
                     <p className="font-medium"> 
-                    Hey! I'm Gavin, a versatile mechatronics engineering student with an unquenchable thirst for exploring new technology and bringing innovative concepts to life. I firmly believe that engineering is the key to unlocking new frontiers of creativity and problem-solving. My proficiency extends to pioneering the development of cutting-edge technologies,, from developing an advanced telemetry system for a solar-powered vehicle to crafting intelligent robotic systems with unique, innovative mechanisms and designs. all while maintaining a strong command of various programming languages and platforms.
+                    Hey! I'm Gavin, a versatile mechatronics engineering student with an unquenchable thirst for exploring new technology and bringing innovative concepts to life. I firmly believe that engineering is the key to unlocking new frontiers of creativity and problem-solving. My proficiency extends to pioneering the development of cutting-edge technologies, from developing an advanced telemetry system for a solar-powered vehicle to crafting intelligent robotic systems with unique, innovative mechanisms and designs. all while maintaining a strong command of various programming languages and platforms.
                     
                     </p>
                     <p className="font-medium my-4"> 
