@@ -4,6 +4,6 @@
 ### 
 ### Future To-Do List:
 1. Create Dark Mode.
-2. Add Icons for work experience, extracurricular activities and education.
+2. Add Icons for work experience, extra-curricular activities and education.
 
 
