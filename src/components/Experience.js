@@ -61,7 +61,7 @@ export default function Experience() {
                         address="Singapore"
                         work="During my 2- years conscription in Singapore, I served as a Rigid Hull Inflatable Boat (RHIBs) Coxswain and Operator, 
                         responsible for ensuring the safety and operational readiness of our naval base. 
-                        I led a team of 12 in executing vital tasks, including sea investigations, 
+                        I worked closely with my team of 12 in executing vital tasks, including sea investigations, 
                         foreign vessel screenings, and intruder intercepts, 
                         contributing to the overall security and smooth operation of our naval base.."
                     />
