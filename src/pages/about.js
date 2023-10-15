@@ -54,8 +54,8 @@ export default function About() {
                     <h2 className="mb-4 text-lg font-bold uppercase text-dark/75">About Me</h2>
                     <p className="font-medium"> 
                     Hey! I'm Gavin, a versatile mechatronics engineering student with an unquenchable thirst for exploring new technology and bringing innovative concepts to life. I firmly believe that engineering is the key to unlocking new frontiers of creativity and problem-solving. My proficiency extends to pioneering the development of cutting-edge technologies, from developing an advanced telemetry system for a solar-powered vehicle to crafting intelligent robotic systems with unique, innovative mechanisms and designs. all while maintaining a strong command of various programming languages and platforms.
-                    
                     </p>
+                    
                     <p className="font-medium my-4"> 
                     In addition to my technical pursuits, I am equally passionate about giving back to my community. As an active volunteer, I've dedicated my time to various charitable initiatives by spearheading various events as a former executive committee member of SP Rotaract. I worked closely with various beneficiaries and various events to spread joy and welfare to the less fortunate. These experiences have not only enriched my life but also shaped my core values of empathy and the importance of contributing to the well-being of others.
                     </p>
