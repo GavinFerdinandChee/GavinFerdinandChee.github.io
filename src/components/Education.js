@@ -58,7 +58,7 @@ export default function Education() {
                         type="Bachelors of Engineering with Honours in Mechanical Engineering, Specialisation in Mechatronics"
                         time="2022-2023"
                         place="Singapore Institute of Technology - University of Glasgow"
-                        info="Currently, I am enrolled in a full-time Bachelor's program in Mechanical Engineering with Honors, specializing in Mechatronics. This program is accredited by the University of Glasgow and offered through a joint collaboration with the Singapore Institute of Technology, ensuring a comprehensive and globally recognized education. As part of my academic journey, I recently participated in a student exchange program to the University of Glasgow, enriching my academic and cultural experiences."
+                        info="Currently, I am enrolled in a full-time Bachelor's program in Mechanical Engineering with Honours, specialising in Mechatronics. This program is accredited by the University of Glasgow and offered through a joint collaboration with the Singapore Institute of Technology, ensuring a comprehensive and globally recognized education. As part of my academic journey, I recently participated in a student exchange program to the University of Glasgow, enriching my academic and cultural experiences."
                     />
 
                     <Details
