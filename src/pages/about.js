@@ -96,13 +96,10 @@ export default function About() {
                         <h2 className="text-xl font-medium capitalize text-dark/75 xl:text-center md:text-lg sm:text-base xs:text-sm">Years of Experience</h2>
                     </div>
                 </div>
-
-                    
-
             </div>
             <Skills />
             <Experience />
-            <Achievements />
+
             <Education />
             <Volunteering />
             </Layout>
@@ -110,3 +107,4 @@ export default function About() {
     </>
     )
 }
+// insert @ line 102 <Achievements />

@@ -87,11 +87,8 @@ export default function Achievements() {
                         address="San Francisco, CA"
                         work="Managed inventory schedules to meet budget and delivery requirements. Conducted quality assurance tests to ensure high-quality products. Coordinated shipments and monitored orders to prevent delays or disruptions."
                     />
-
-
                 </ul>
             </div>
-
         </div>
     )
 }
