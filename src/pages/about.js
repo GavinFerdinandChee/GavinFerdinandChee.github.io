@@ -53,14 +53,15 @@ export default function About() {
                 <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
                     <h2 className="mb-4 text-lg font-bold uppercase text-dark/75">About Me</h2>
                     <p className="font-medium"> 
-                    Hey! Im Gavin, a versatile full-stack web and app developer with a passion for crafting stunning web applications and intuitive user interfaces. Driven by innovation, Im constantly seeking new ways to transform my clients visions into reality.
+                    Hey! I'm Gavin, a versatile mechatronics engineering student with an unquenchable thirst for exploring new technology and bringing innovative concepts to life. I firmly believe that engineering is the key to unlocking new frontiers of creativity and problem-solving. My proficiency extends to pioneering the development of cutting-edge technologies,, from developing an advanced telemetry system for a solar-powered vehicle to crafting intelligent robotic systems with unique, innovative mechanisms and designs. all while maintaining a strong command of various programming languages and platforms.
+                    
                     </p>
                     <p className="font-medium my-4"> 
-                    I firmly believe that software has the potential to address and efficiently solve our clients challenges by creating intuitive and delightful user experience. To me, design is more than just aesthetics; its about streamlining the user experience and making it as seamless as possible. I am dedicated to harnessing the power of software to maximize efficiency and bridge the gap between technology and its users.</p>
-
+                    In addition to my technical pursuits, I am equally passionate about giving back to my community. As an active volunteer, I've dedicated my time to various charitable initiatives by spearheading various events as an executive committee member of SP Rotaract. I worked closely with various beneficiaries and various events to spread joy and welfare to the less fortunate. These experiences have not only enriched my life but also shaped my core values of empathy and the importance of contributing to the well-being of others.
+                    </p>
 
                     <p className="font-medium"> 
-                    Whether Im developing a website, mobile app, or any other digital product, I bring my unwavering commitment to design excellence and user-centric thinking to every project I undertake. I eagerly anticipate the opportunity to apply my skills and enthusiasm to your next venture.
+                    Whether I'm developing an intricate engineering system, a robotic prototype, or any digital product, my unwavering commitment to design excellence and user-centric thinking remains at the core of every project I take on. I'm eagerly looking forward to the next opportunity to apply my skills in our next venture.
                     </p>
                 </div>
                 <div className="col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark bg-light p-8  dark:border-light xl:col-span-4 md:order-1 md:col-span-8">   
