@@ -57,6 +57,7 @@ export default function Home() {
                   "
                   download={true}
                 >Resume <LinkArrow className="w-6 ml-1" /> </Link>
+                <button  onClick={handleModal} className="ml-4 text-lg font-medium capitalize text-dark underline md:text-base">Contact Me</button>
               </div>
             </div>
           </div>
