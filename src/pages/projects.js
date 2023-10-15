@@ -5,12 +5,13 @@ import AnimatedText from '@/components/AnimatedText'
 import Image from 'next/image'
 import Link from 'next/link'
 import { GithubIcon } from '@/components/Icons'
-import SunSPEC_6 from "../../public/images/projects/SunSPEC_6.jpg"
-import FinanceProject from "../../public/images/projects/bootcamp.jpg"
-import Airbnb from "../../public/images/projects/Airbnb_Redone.png"
 import TransitionEffect from '@/components/TransitionEffect'
-import GPT4 from "../../public/images/projects/aitools.png"
-import Marshmallow from "../../public/images/projects/Marshmallow.png"
+import SunSPEC_6 from "../../public/images/projects/SunSPEC_6.jpg"
+import Scotch_Yoke_Slider_Crank_AGV from "../../public/images/projects/Scotch_Yoke_Slider_Crank_AGV.png"
+import Adaptive_End_Effector_6_DOF_AGV from "../../public/images/projects/Adaptive_End_Effector_6_DOF_AGV.png"
+import Thermoelectric_Chiller from "../../public/images/projects/Thermoelectric_Chiller.png"
+import Robot_Dog from "../../public/images/projects/Robot_Dog.jpg"
+
 
 const FeaturedProject = ({type, title, summary, img, link, github}) => {
     return (
@@ -27,7 +28,6 @@ const FeaturedProject = ({type, title, summary, img, link, github}) => {
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" />
             </Link>
 
-
             <div className="w-1/2 flex flex-col items-start justify-between pl-6 lg:w-full lg:pl-0 lg:pt-6">
                 <span className="text-primary font-medium text-xl  xs:text-base">{type}</span>
                 <Link href={link} target="_blank" className="hover:underline underline-offset-2">
@@ -40,10 +40,9 @@ const FeaturedProject = ({type, title, summary, img, link, github}) => {
                 <Link href={link} target="_blank" className="ml-4 rounded-lg bg-dark text-light p-2 px-6 text-lg font-semibold
                 
                 sm:px-4 sm:text-base
-                ">Visit Project</Link>
+                ">Visit Project/Testimonial</Link>
                 </div>
             </div>
-           
 
         </article>
     )
@@ -56,7 +55,6 @@ export default function Projects() {
             <title>Gavin Ferdinand | Projects Showcase</title>
             <meta name="description" content="any description you want" />
         </Head>
-
 
         <TransitionEffect />
         
@@ -92,10 +90,15 @@ export default function Projects() {
 
                     <div className="col-span-12">
                         <FeaturedProject 
-                            type="Financial Trading Website"
-                            title="Bootcamp Brokers"
-                            summary="Experience paper-trading like never before with our Robinhood clone - featuring real-time stock data, visually engaging data visualizations, and a context-aware chatbot for seamless support."
-                            img={FinanceProject}
+                            type="Advanced Automated Guided Vehicle (AGV): Pushing Design Boundaries with Complex Mechanisms"
+                            title="Year 3 || Singapore Polytechnic"
+                            summary="Led a team of 4 throughout the development of an AGV with scotch-yoke and slider-crank mechanisms, 
+                            demonstrating expertise in mechanical design and PIC microcontroller programming. 
+                            This AGV featured a scotch-yoke mechanism for gripping and a slider-crank mechanism for precise positioning. 
+                            I spearheaded the entire project, from fabrication to programming, 
+                            highlighting my expertise in both mechanical design and PIC microcontroller programming. 
+                            This project became a hallmark, providing an invaluable reference for subsequent batches, as it exemplified the innovative standards we established."
+                            img={Scotch_Yoke_Slider_Crank_AGV}
                             link=""
                             github=""//"https://github.com/GavinFerdinandChee"
                         />
@@ -103,10 +106,13 @@ export default function Projects() {
 
                     <div className="col-span-12">
                         <FeaturedProject 
-                            type="A place to host your Homes (Airbnb Clone)"
-                            title="Air Space"
-                            summary="A place to host your homes, book them, and enjoy vacation time designed with Airbnb in mind"
-                            img={Airbnb}
+                            type="Innovative AGV with 6-DOF Robotic Arm and Adaptive End Effector: Exploring New Horizons in Robotics"
+                            title="Year 2 || Singapore Polytechnic"
+                            summary="I led a team of 4 in the comprehensive development of an AGV equipped with a 6 DOF robot arm and adaptive end effector of our design, 
+                            enabling precise object pick-and-place capabilities. I oversaw the project from design and fabrication to programming, 
+                            showcasing my expertise in electronic design and logic control. To further enhance functionality. 
+                            This project set benchmarks, serving as an exemplary reference for future batches, showcasing the innovative standards we achieved."
+                            img={Adaptive_End_Effector_6_DOF_AGV}
                             link=""
                             github=""//"https://github.com/GavinFerdinandChee"
                         />
@@ -114,10 +120,16 @@ export default function Projects() {
 
                     <div className="col-span-12">
                         <FeaturedProject 
-                            type="Article / Journal Summarizer Only Needs URL"
-                            title="GPT-4 Summarizer"
-                            summary="Have you ever wanted to just only input your URL and get a summary of the content of that webpage. Look no further than this web application that can do that for you. All you have to do is enter your URL and it will summarize the page for you."
-                            img={GPT4}
+                            type="Revolutionizing Cooling Technology: The Thermoelectric Innovation Journey"
+                            title="Lee Kuan Yew Technology Award 2017 || Merit Award for the Energy Innovation Challenge 2016"
+                            summary="I led a team of three in pioneering the exploration of emerging thermoelectric cooler technologies. 
+                            We delved into the applications of the Peltier and Seebeck effects, creating an innovative refrigeration unit. 
+                            Utilizing the Peltier effect, we implemented precise temperature control through PID logic with an Arduino, optimizing efficiency. 
+                            Our project made a mark by winning the Merit Award for Energy Innovation Challenge by The Institution of Engineers, 
+                            Singapore, and the prestigious Lee Kuan Yew Technology Award in 2017, a recognition awarded to only 10 teams. As the team leader, 
+                            I oversaw the entire development process, from mechanical design and fabrication to electrical schematics, and programming, 
+                            ensuring a successful and award-winning project."
+                            img={Thermoelectric_Chiller}
                             link=""
                             github=""//"https://github.com/GavinFerdinandChee"
                         />
@@ -125,10 +137,13 @@ export default function Projects() {
 
                     <div className="col-span-12">
                         <FeaturedProject 
-                            type="A Marshmallow Roasting Game to play with friends and family"
-                            title="Marshmallow Game"
-                            summary="Come challenge your friends and foes alike for a marshmallow like board game"
-                            img={Marshmallow}
+                            type="Exploring the Future: Building a Quadruped Robot with Open-Source Innovation"
+                            title="Open Dynamic Robot Initiative"
+                            summary="As a passionate robotics engineer, I'm continually seeking new challenges to test my skills and push the boundaries of technology. 
+                            My next venture involves the development of a quadruped robot using open-source resources from initiatives like the Open Dynamic Robot Initiative. 
+                            This project isn't just about building a robot; it's about exploring the possibilities and honing my abilities in robotics engineering. 
+                            Stay tuned for updates on this exciting journey as I embark on this innovative and educational endeavor to create a functional and versatile quadruped robot, showcasing the power of open-source technology in the field of robotics."
+                            img={Robot_Dog}
                             link=""
                             github=""//"https://github.com/GavinFerdinandChee"
                         />

@@ -2,7 +2,7 @@ import React, {useRef, useEffect} from 'react'
 import Head from 'next/head'
 import AnimatedText from '@/components/AnimatedText'
 import Layout from '@/components/Layout'
-import Profile from "../../public/images/profile/profile2.png"
+import Profile from "../../public/images/profile/profile_2.png"
 import Image from 'next/image'
 import { useMotionValue, useSpring, useInView } from 'framer-motion'
 import Skills from '@/components/Skills'
