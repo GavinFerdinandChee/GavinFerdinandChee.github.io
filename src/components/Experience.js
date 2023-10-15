@@ -58,7 +58,7 @@ export default function Experience() {
                         position="Rigid Hull Inflatable Boat Operator and Coxswain"
                         company="Republic of Singapore Navy"
                         time="July 2020 - July 2022"
-                        address="San Francisco, CA"
+                        address="Singapore"
                         work="During my 2- years conscription in Singapore, I served as a Rigid Hull Inflatable Boat (RHIBs) Coxswain and Operator, 
                         responsible for ensuring the safety and operational readiness of our naval base. 
                         I led a team of 12 in executing vital tasks, including sea investigations, 
@@ -70,7 +70,7 @@ export default function Experience() {
                         position="SunSPEC 6 Programming Team Leader & Systems Scrutineer (Singapore Polytechnic Solar Racing Team)"
                         company="Bridgestone World Solar Challenge"
                         time="October 2018 - October 2019"
-                        address="San Francisco, CA"
+                        address="Darwin to Adelaide, Australia || Singapore"
                         work="As the programming team lead for a diverse team of 16 engineering students, 
                         I spearheaded the development of a sophisticated wireless telemetry system and an innovative dashboard interface using Python and Embedded C. 
                         My skill set extends beyond programming, as I'm also well-versed in CAD design and mechanical fabrication. 
